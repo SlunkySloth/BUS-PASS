@@ -114,7 +114,7 @@
                                         <td>Register No</td>
                                         <td>
                                             <div class="font-weight-bold">
-                                                RA2411026050113     
+                                                RA2411026050113
                                             </div>
                                         </td>
                                     </tr>
