@@ -195,7 +195,7 @@
                                         <td>Receipt Date</td>
                                         <td>
                                             <div class="font-weight-bold">
-                                                18-10-2026
+                                                02-09-2026
                                             </div>
                                         </td>
                                     </tr>
