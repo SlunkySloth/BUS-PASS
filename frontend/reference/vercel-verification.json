@@ -1,0 +1,81 @@
+{
+  "page": {
+    "status": 200,
+    "url": "https://bus-pass-mu.vercel.app/srmtrichystudentportal/students/report/studentTransportBookingVerify.jsp?token=81Lw3zJL43tVBQ6fVpwVmEKPon5n_Xpw",
+    "content_type": "text/html; charset=utf-8",
+    "content_disposition": "inline"
+  },
+  "assets": [
+    {
+      "url": "https://bus-pass-mu.vercel.app/srmtrichystudentportal/resources/css/vendor/mainstyle.css",
+      "status": 200,
+      "bytes": 423061
+    },
+    {
+      "url": "https://bus-pass-mu.vercel.app/srmtrichystudentportal/resources/css/vendor/all.css",
+      "status": 200,
+      "bytes": 78548
+    },
+    {
+      "url": "https://bus-pass-mu.vercel.app/srmtrichystudentportal/resources/css/vendor/customstyle.css",
+      "status": 200,
+      "bytes": 1231
+    },
+    {
+      "url": "https://bus-pass-mu.vercel.app/srmtrichystudentportal/resources/Image/college_icon.jpeg",
+      "status": 200,
+      "bytes": 61846
+    },
+    {
+      "url": "https://bus-pass-mu.vercel.app/srmtrichystudentportal/resources/js/vendor/jquery.min.js",
+      "status": 200,
+      "bytes": 89478
+    },
+    {
+      "url": "https://bus-pass-mu.vercel.app/srmtrichystudentportal/resources/js/custom.js",
+      "status": 200,
+      "bytes": 170264
+    },
+    {
+      "url": "https://bus-pass-mu.vercel.app/srmtrichystudentportal/resources/js/vendor/bootstrap.bundle.min.js",
+      "status": 200,
+      "bytes": 84158
+    },
+    {
+      "url": "https://bus-pass-mu.vercel.app/srmtrichystudentportal/resources/js/vendor/jquery.easing.min.js",
+      "status": 200,
+      "bytes": 2532
+    },
+    {
+      "url": "https://bus-pass-mu.vercel.app/srmtrichystudentportal/resources/js/vendor/main.js",
+      "status": 200,
+      "bytes": 2356
+    },
+    {
+      "url": "https://bus-pass-mu.vercel.app/srmtrichystudentportal/resources/Image/no_photo.jpg",
+      "status": 200,
+      "bytes": 1843
+    },
+    {
+      "url": "https://bus-pass-mu.vercel.app/srmtrichystudentportal/resources/fonts/metropolis/Metropolis-Regular.otf",
+      "status": 200,
+      "bytes": 23124
+    },
+    {
+      "url": "https://bus-pass-mu.vercel.app/srmtrichystudentportal/resources/fonts/webfonts/fa-solid-900.woff2",
+      "status": 200,
+      "bytes": 80300
+    }
+  ],
+  "visual": {
+    "desktop": {
+      "pixel_identical_to_original": true
+    },
+    "narrow": {
+      "pixel_identical_to_original": true
+    },
+    "phone": {
+      "pixel_identical_to_original": true
+    }
+  }
+}

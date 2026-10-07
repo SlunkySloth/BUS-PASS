@@ -2,6 +2,18 @@
 
 An editable recovery of the supplied transport registration frontend, with the original assets and verified visual match. See [frontend/README.md](frontend/README.md) for local editing and recovery details.
 
+## Published site and QR code
+
+- [Live transport page](https://bus-pass-mu.vercel.app/srmtrichystudentportal/students/report/studentTransportBookingVerify.jsp?token=81Lw3zJL43tVBQ6fVpwVmEKPon5n_Xpw)
+- [Production homepage](https://bus-pass-mu.vercel.app/)
+- [PNG QR code](qr-code/transport-qr.png)
+- [SVG QR code for printing](qr-code/transport-qr.svg)
+- [Exact QR destination URL](qr-code/transport-url.txt)
+
+The Vercel project is connected to this GitHub repository. Commits to the production branch `master` deploy automatically.
+
+![Transport page QR code](qr-code/transport-qr.png)
+
 ## Deploy to Vercel
 
 1. In Vercel, choose **Add New → Project**, then import **SlunkySloth/BUS-PASS**.
