@@ -1,0 +1,278 @@
+[
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/Image/college_icon.jpeg",
+    "path": "srmtrichystudentportal/resources/Image/college_icon.jpeg",
+    "bytes": 61846,
+    "content_type": "image/jpeg"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/Image/no_photo.jpg",
+    "path": "srmtrichystudentportal/resources/Image/no_photo.jpg",
+    "bytes": 1843,
+    "content_type": "image/jpeg"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/css/vendor/all.css",
+    "path": "srmtrichystudentportal/resources/css/vendor/all.css",
+    "bytes": 78548,
+    "content_type": "text/css"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/css/vendor/customstyle.css",
+    "path": "srmtrichystudentportal/resources/css/vendor/customstyle.css",
+    "bytes": 1231,
+    "content_type": "text/css"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/css/vendor/mainstyle.css",
+    "path": "srmtrichystudentportal/resources/css/vendor/mainstyle.css",
+    "bytes": 423061,
+    "content_type": "text/css"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/js/custom.js",
+    "path": "srmtrichystudentportal/resources/js/custom.js",
+    "bytes": 170264,
+    "content_type": "application/javascript"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/js/vendor/bootstrap.bundle.min.js",
+    "path": "srmtrichystudentportal/resources/js/vendor/bootstrap.bundle.min.js",
+    "bytes": 84158,
+    "content_type": "application/javascript"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/js/vendor/jquery.easing.min.js",
+    "path": "srmtrichystudentportal/resources/js/vendor/jquery.easing.min.js",
+    "bytes": 2532,
+    "content_type": "application/javascript"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/js/vendor/jquery.min.js",
+    "path": "srmtrichystudentportal/resources/js/vendor/jquery.min.js",
+    "bytes": 89478,
+    "content_type": "application/javascript"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/js/vendor/main.js",
+    "path": "srmtrichystudentportal/resources/js/vendor/main.js",
+    "bytes": 2356,
+    "content_type": "application/javascript"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/metropolis/Metropolis-Black.otf",
+    "path": "srmtrichystudentportal/resources/fonts/metropolis/Metropolis-Black.otf",
+    "bytes": 23696,
+    "content_type": "font/otf"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/metropolis/Metropolis-BlackItalic.otf",
+    "path": "srmtrichystudentportal/resources/fonts/metropolis/Metropolis-BlackItalic.otf",
+    "bytes": 24288,
+    "content_type": "font/otf"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/metropolis/Metropolis-Bold.otf",
+    "path": "srmtrichystudentportal/resources/fonts/metropolis/Metropolis-Bold.otf",
+    "bytes": 23664,
+    "content_type": "font/otf"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/metropolis/Metropolis-BoldItalic.otf",
+    "path": "srmtrichystudentportal/resources/fonts/metropolis/Metropolis-BoldItalic.otf",
+    "bytes": 24332,
+    "content_type": "font/otf"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/metropolis/Metropolis-ExtraBold.otf",
+    "path": "srmtrichystudentportal/resources/fonts/metropolis/Metropolis-ExtraBold.otf",
+    "bytes": 23700,
+    "content_type": "font/otf"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/metropolis/Metropolis-ExtraBoldItalic.otf",
+    "path": "srmtrichystudentportal/resources/fonts/metropolis/Metropolis-ExtraBoldItalic.otf",
+    "bytes": 24588,
+    "content_type": "font/otf"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/metropolis/Metropolis-ExtraLight.otf",
+    "path": "srmtrichystudentportal/resources/fonts/metropolis/Metropolis-ExtraLight.otf",
+    "bytes": 23080,
+    "content_type": "font/otf"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/metropolis/Metropolis-ExtraLightItalic.otf",
+    "path": "srmtrichystudentportal/resources/fonts/metropolis/Metropolis-ExtraLightItalic.otf",
+    "bytes": 24284,
+    "content_type": "font/otf"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/metropolis/Metropolis-Light.otf",
+    "path": "srmtrichystudentportal/resources/fonts/metropolis/Metropolis-Light.otf",
+    "bytes": 23200,
+    "content_type": "font/otf"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/metropolis/Metropolis-LightItalic.otf",
+    "path": "srmtrichystudentportal/resources/fonts/metropolis/Metropolis-LightItalic.otf",
+    "bytes": 24208,
+    "content_type": "font/otf"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/metropolis/Metropolis-Medium.otf",
+    "path": "srmtrichystudentportal/resources/fonts/metropolis/Metropolis-Medium.otf",
+    "bytes": 23240,
+    "content_type": "font/otf"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/metropolis/Metropolis-MediumItalic.otf",
+    "path": "srmtrichystudentportal/resources/fonts/metropolis/Metropolis-MediumItalic.otf",
+    "bytes": 24352,
+    "content_type": "font/otf"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/metropolis/Metropolis-Regular.otf",
+    "path": "srmtrichystudentportal/resources/fonts/metropolis/Metropolis-Regular.otf",
+    "bytes": 23124,
+    "content_type": "font/otf"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/metropolis/Metropolis-RegularItalic.otf",
+    "path": "srmtrichystudentportal/resources/fonts/metropolis/Metropolis-RegularItalic.otf",
+    "bytes": 24236,
+    "content_type": "font/otf"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/metropolis/Metropolis-SemiBold.otf",
+    "path": "srmtrichystudentportal/resources/fonts/metropolis/Metropolis-SemiBold.otf",
+    "bytes": 23480,
+    "content_type": "font/otf"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/metropolis/Metropolis-SemiBoldItalic.otf",
+    "path": "srmtrichystudentportal/resources/fonts/metropolis/Metropolis-SemiBoldItalic.otf",
+    "bytes": 24284,
+    "content_type": "font/otf"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/metropolis/Metropolis-Thin.otf",
+    "path": "srmtrichystudentportal/resources/fonts/metropolis/Metropolis-Thin.otf",
+    "bytes": 22920,
+    "content_type": "font/otf"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/metropolis/Metropolis-ThinItalic.otf",
+    "path": "srmtrichystudentportal/resources/fonts/metropolis/Metropolis-ThinItalic.otf",
+    "bytes": 24052,
+    "content_type": "font/otf"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/webfonts/fa-brands-400.eot",
+    "path": "srmtrichystudentportal/resources/fonts/webfonts/fa-brands-400.eot",
+    "bytes": 136822,
+    "content_type": "application/vnd.ms-fontobject"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/webfonts/fa-brands-400.eot?",
+    "path": "srmtrichystudentportal/resources/fonts/webfonts/fa-brands-400.eot",
+    "bytes": 136822,
+    "content_type": "application/vnd.ms-fontobject"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/webfonts/fa-brands-400.svg",
+    "path": "srmtrichystudentportal/resources/fonts/webfonts/fa-brands-400.svg",
+    "bytes": 751262,
+    "content_type": "image/svg+xml"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/webfonts/fa-brands-400.ttf",
+    "path": "srmtrichystudentportal/resources/fonts/webfonts/fa-brands-400.ttf",
+    "bytes": 136516,
+    "content_type": "font/ttf"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/webfonts/fa-brands-400.woff",
+    "path": "srmtrichystudentportal/resources/fonts/webfonts/fa-brands-400.woff",
+    "bytes": 92136,
+    "content_type": "font/woff"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/webfonts/fa-brands-400.woff2",
+    "path": "srmtrichystudentportal/resources/fonts/webfonts/fa-brands-400.woff2",
+    "bytes": 78460,
+    "content_type": "font/woff2"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/webfonts/fa-regular-400.eot",
+    "path": "srmtrichystudentportal/resources/fonts/webfonts/fa-regular-400.eot",
+    "bytes": 34350,
+    "content_type": "application/vnd.ms-fontobject"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/webfonts/fa-regular-400.eot?",
+    "path": "srmtrichystudentportal/resources/fonts/webfonts/fa-regular-400.eot",
+    "bytes": 34350,
+    "content_type": "application/vnd.ms-fontobject"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/webfonts/fa-regular-400.svg",
+    "path": "srmtrichystudentportal/resources/fonts/webfonts/fa-regular-400.svg",
+    "bytes": 145515,
+    "content_type": "image/svg+xml"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/webfonts/fa-regular-400.ttf",
+    "path": "srmtrichystudentportal/resources/fonts/webfonts/fa-regular-400.ttf",
+    "bytes": 34052,
+    "content_type": "font/ttf"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/webfonts/fa-regular-400.woff",
+    "path": "srmtrichystudentportal/resources/fonts/webfonts/fa-regular-400.woff",
+    "bytes": 16772,
+    "content_type": "font/woff"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/webfonts/fa-regular-400.woff2",
+    "path": "srmtrichystudentportal/resources/fonts/webfonts/fa-regular-400.woff2",
+    "bytes": 13548,
+    "content_type": "font/woff2"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/webfonts/fa-solid-900.eot",
+    "path": "srmtrichystudentportal/resources/fonts/webfonts/fa-solid-900.eot",
+    "bytes": 204814,
+    "content_type": "application/vnd.ms-fontobject"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/webfonts/fa-solid-900.eot?",
+    "path": "srmtrichystudentportal/resources/fonts/webfonts/fa-solid-900.eot",
+    "bytes": 204814,
+    "content_type": "application/vnd.ms-fontobject"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/webfonts/fa-solid-900.svg",
+    "path": "srmtrichystudentportal/resources/fonts/webfonts/fa-solid-900.svg",
+    "bytes": 922603,
+    "content_type": "image/svg+xml"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/webfonts/fa-solid-900.ttf",
+    "path": "srmtrichystudentportal/resources/fonts/webfonts/fa-solid-900.ttf",
+    "bytes": 204528,
+    "content_type": "font/ttf"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/webfonts/fa-solid-900.woff",
+    "path": "srmtrichystudentportal/resources/fonts/webfonts/fa-solid-900.woff",
+    "bytes": 104280,
+    "content_type": "font/woff"
+  },
+  {
+    "url": "https://student.srmtrichy.edu.in/srmtrichystudentportal/resources/fonts/webfonts/fa-solid-900.woff2",
+    "path": "srmtrichystudentportal/resources/fonts/webfonts/fa-solid-900.woff2",
+    "bytes": 80300,
+    "content_type": "font/woff2"
+  }
+]
