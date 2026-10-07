@@ -105,7 +105,7 @@
                                         <td width="35%">Student Name</td>
                                         <td>
                                             <div class="font-weight-bold text-custom">
-                                                M KARUPPASAMY PANDIYAN
+                                                PADMANABAN B
                                             </div>
                                         </td>
                                     </tr>
@@ -114,7 +114,7 @@
                                         <td>Register No</td>
                                         <td>
                                             <div class="font-weight-bold">
-                                                RA2411026050183     
+                                                RA2411026050113     
                                             </div>
                                         </td>
                                     </tr>
@@ -150,7 +150,7 @@
                                         <td>Bus Route</td>
                                         <td>
                                             <div class="font-weight-bold">
-                                                HAPP
+                                                MALAI KOVIL
                                             </div>
                                         </td>
                                     </tr>
@@ -159,7 +159,7 @@
                                         <td>Boarding Point</td>
                                         <td>
                                             <div class="font-weight-bold">
-                                                POOLANGUDI
+                                                KAILASH NAGAR
                                             </div>
                                         </td>
                                     </tr>
@@ -177,7 +177,7 @@
                                         <td>Receipt Amount</td>
                                         <td>
                                             <div class="font-weight-bold text-success">
-                                                ₹ 27900.00
+                                                ₹ 26900.00
                                             </div>
                                         </td>
                                     </tr>
@@ -195,7 +195,7 @@
                                         <td>Receipt Date</td>
                                         <td>
                                             <div class="font-weight-bold">
-                                                18-08-2026
+                                                18-10-2026
                                             </div>
                                         </td>
                                     </tr>
